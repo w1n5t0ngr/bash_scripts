@@ -1,2 +1,2 @@
 # bash_scripts
-Random custom scripts for boring simple tasks
+Random custom scripts for simple and boring tasks
